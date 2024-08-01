@@ -48,7 +48,7 @@ body {
 }
 .img-item.fruit.active img {
 	scale: 1;
-	transition-delay: 0.1s;
+	transition-delay: 0.2s;
 }
 
 @keyframes float-fruit {
@@ -124,7 +124,7 @@ body {
 }
 .large-text h2 {
 	font-size: 190px;
-	color: rgba(255, 255, 255, 0.4);
+	color: rgba(255, 255, 255, 0.5);
 	writing-mode: vertical-lr;
 	text-orientation: upright;
 	letter-spacing: -90px;
