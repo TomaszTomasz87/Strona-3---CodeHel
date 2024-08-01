@@ -14,7 +14,7 @@ body {
 }
 .img-box {
 	position: absolute;
-	bottom: -960px;
+	bottom: -760px;
 	left: 50%;
 	transform: translateX(-50%);
 	width: 1600px;

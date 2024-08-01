@@ -74,7 +74,7 @@ prevBtn.addEventListener('click', () => {
 	infoSlider.style.transform = 'translateY(25%)'
 })
 
-infoSlider.addEventListener('transition_end', () => {
+infoSlider.addEventListener('transition-end', () => {
 
 	if (direction == -1) {
 		infoSlider.appendChild(infoSlider.firstElementChild);
